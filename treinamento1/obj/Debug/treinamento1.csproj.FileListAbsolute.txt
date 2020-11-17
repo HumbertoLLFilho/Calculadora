@@ -1,0 +1,7 @@
+D:\Meus arquivos\Trabalho\treinamento\treinamento1\treinamento1\bin\Debug\treinamento1.exe.config
+D:\Meus arquivos\Trabalho\treinamento\treinamento1\treinamento1\bin\Debug\treinamento1.exe
+D:\Meus arquivos\Trabalho\treinamento\treinamento1\treinamento1\bin\Debug\treinamento1.pdb
+D:\Meus arquivos\Trabalho\treinamento\treinamento1\treinamento1\obj\Debug\treinamento1.csprojAssemblyReference.cache
+D:\Meus arquivos\Trabalho\treinamento\treinamento1\treinamento1\obj\Debug\treinamento1.csproj.CoreCompileInputs.cache
+D:\Meus arquivos\Trabalho\treinamento\treinamento1\treinamento1\obj\Debug\treinamento1.exe
+D:\Meus arquivos\Trabalho\treinamento\treinamento1\treinamento1\obj\Debug\treinamento1.pdb
